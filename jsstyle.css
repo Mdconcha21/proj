@@ -139,3 +139,8 @@ button:hover{
 .maincontent img{
     border-radius: 20px;
 }
+
+.console{
+    width: 90vh;
+    height: 50vh;
+}
